@@ -3,7 +3,7 @@ name: lernia-app-test
 
 on: 
   push: 
-    branches: ["latest"]
+    branches: ["main"]
 
 env: 
   REGISTRY: ghcr.io
